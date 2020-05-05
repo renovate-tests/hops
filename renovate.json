@@ -1,7 +1,6 @@
 {
   "extends": ["config:base"],
   "pinVersions": false,
-  "prCreation": "not-pending",
   "masterIssue": true,
   "lockFileMaintenance": {
     "enabled": true
