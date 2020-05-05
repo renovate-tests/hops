@@ -13,6 +13,7 @@
   "semanticCommitType": "chore",
   "semanticCommitScope": null,
   "baseBranches": ["master", "v12.x", "v11.x"],
+  "masterIssue": true,
   "packageRules": [
     {
       "depTypeList": ["dependencies", "peerDependencies"],
